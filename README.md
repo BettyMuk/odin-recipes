@@ -1,2 +1,1 @@
-# odin-recipes
-HTML recipe project_first week
+This project is about creating a simple website using HTML basics. By the end of this project, I will have used basic skills of HTML such asusing HTML elements and tags. I will have used various elements such as metadata, body, links, and images to create a simple recipe website.
